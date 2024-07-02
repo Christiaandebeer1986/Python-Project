@@ -1,2 +1,2 @@
 # Python-Project
-test repository fro project
+test repository for project
